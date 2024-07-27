@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13f4555b.css",
+    "main.js": "/static/js/main.089ef54e.js",
+    "static/js/488.ddc70688.chunk.js": "/static/js/488.ddc70688.chunk.js",
+    "static/media/NanumSquareNeo-cBd.ttf": "/static/media/NanumSquareNeo-cBd.7f4dbb792cbda9fc36a4.ttf",
+    "static/media/NanumSquareNeo-eHv.ttf": "/static/media/NanumSquareNeo-eHv.ae9b1d2bc5eda16ab47c.ttf",
+    "index.html": "/index.html",
+    "main.13f4555b.css.map": "/static/css/main.13f4555b.css.map",
+    "main.089ef54e.js.map": "/static/js/main.089ef54e.js.map",
+    "488.ddc70688.chunk.js.map": "/static/js/488.ddc70688.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13f4555b.css",
+    "static/js/main.089ef54e.js"
+  ]
+}
